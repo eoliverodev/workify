@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "466efda913875ab0",
+    "type": "split",
+    "children": [
+      {
+        "id": "23ad2e189648db44",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "milestones/Tens.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "091e188cc10eea1f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b0d2a8b4520668d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f81540b4ca56f77d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f434744f34b71a16",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "56b3edcb9edd69d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ad1292410a9b057c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3497bec7ff04088",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5686cc62e81470fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "milestones/Tens.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "23ad2e189648db44",
+  "lastOpenFiles": [
+    "milestones/Tens.md",
+    "milestones/Jacks.md",
+    "README.md"
+  ]
+}
